@@ -1,7 +1,7 @@
 function chad() {
     var x = document.createElement("IMG");
     x.setAttribute("src", "jew.gif");
-    x.setAttribute("width", "500");
+    x.setAttribute("width", "400");
     x.setAttribute("height", "250");
     x.setAttribute("alt", "en gasig individ");
     x.setAttribute("id", "ba");
